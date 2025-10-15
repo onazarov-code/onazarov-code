@@ -13,7 +13,7 @@ My focus: branding, layout, typography, and digital creativity.
 
 ### 🛠️ Skills & Tools  
 Adobe Photoshop · Illustrator · Figma · Canva  
-Visual & Graphic Design · Branding · Typography · Layouts  
+Visual & Graphic Design · Branding · Typography · Layouts <img scr="![BillsUghGIF](https://github.com/user-attachments/assets/56df2ce5-db40-4bed-b718-714e8c81e71a)" width="300" hight="300" alt="Design motion"/> 
 
 ---
 
