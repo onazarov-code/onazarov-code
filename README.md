@@ -1,7 +1,6 @@
 
 <!-- Header / greeting with a wave -->
-###👋 Hey there
-
+👋 Hey there. Welcome to My Profile🙌
 ---
 
 ### 🧑‍🎨 About Me  
@@ -12,23 +11,18 @@ My focus: branding, layout, typography, and digital creativity.
 ---
 
 ### 🛠️ Skills & Tools  
-Adobe Photoshop · Illustrator · Figma · Canva  
-Visual & Graphic Design · Branding · Typography · Layouts <img scr="![BillsUghGIF](https://github.com/user-attachments/assets/56df2ce5-db40-4bed-b718-714e8c81e71a)" width="300" hight="300" alt="Design motion"/> 
+Adobe Photoshop · Illustrator · Figma · UI/UX design
+Visual & Graphic Design · Branding · Typography · Layouts
 
 ---
 
 ### 🌱 Currently Learning  
-Exploring UI/UX design and basic web development (HTML, CSS, JavaScript)  
-
----
-
-### 📊 GitHub Stats  
-![Orzu’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)  
+Exploring UI/UX design and basic web development (HTML, CSS, JavaScript)    
 
 ---
 
 ### 🔗 Find Me  
-[Behance](https://www.behance.net/) · [LinkedIn](https://www.linkedin.com/) · [Instagram](https://www.instagram.com/)  
+[Behance](https://www.behance.net/) · [LinkedIn](https://www.linkedin.com/) · [Instagram](https://www.instagram.com/_nazarzoda_.03)  
 
 ---
 
