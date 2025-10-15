@@ -1,37 +1,38 @@
-## Hi there 👋 I’m Orzu 🎨 Graphic & Visual Designer | Student of design and media
-I love creating clean, meaningful visuals that connect with people. My focus is on branding, layout design, and digital creativity.
-##💡 Skills & Tools
 
-Adobe Photoshop · Illustrator · Figma
+<!-- Header / greeting with a wave -->
+👋 Hey there
 
-Visual & Graphic Design
+---
 
-Branding · Typography · Layouts
+### 🧑‍🎨 About Me  
+I’m Orzu, a **Graphic & Visual Designer** and design/media student.  
+I love making clean and meaningful visuals that connect with people.  
+My focus: branding, layout, typography, and digital creativity.
 
-🌱 Currently Learning
+---
 
-Exploring how design connects with UI/UX and web development (HTML, CSS, JavaScript).
+### 🛠️ Skills & Tools  
+Adobe Photoshop · Illustrator · Figma · Canva  
+Visual & Graphic Design · Branding · Typography · Layouts  
 
-📊 GitHub Stats
+---
 
-🔗 Find Me
+### 🌱 Currently Learning  
+Exploring UI/UX design and basic web development (HTML, CSS, JavaScript)  
 
-Behance
- · LinkedIn
- · Instagram
+---
 
-💬 “Design is not just what it looks like — it’s how it works.”
-<!--
-**onazarov-code/onazarov-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Stats  
+![Orzu’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Find Me  
+[Behance](https://www.behance.net/) · [LinkedIn](https://www.linkedin.com/) · [Instagram](https://www.instagram.com/)  
+
+---
+
+### 💡 Favorite Quote  
+> “Design is not just what it looks like — it’s how it works.”  
+
+
